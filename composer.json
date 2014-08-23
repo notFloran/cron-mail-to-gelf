@@ -1,0 +1,7 @@
+{
+  "require": {
+    "ext-imap": "*",
+    "tedivm/fetch": "0.5.*",
+    "graylog2/gelf-php": "~1.0"
+  }
+}

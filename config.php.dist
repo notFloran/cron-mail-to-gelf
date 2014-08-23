@@ -1,0 +1,11 @@
+<?php
+
+# Config
+$config = [
+    'graylog_host' => 'monitor.si.hexanet.fr',
+    'graylog_port' => '12201',
+    'imap_host' => 'imap.gmail.com',
+    'imap_port' => 993,
+    'imap_user' => '',
+    'imap_password' => '',
+];
