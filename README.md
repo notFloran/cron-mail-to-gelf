@@ -2,6 +2,6 @@
 
 ## Usage
 
-‘‘‘
+```
 php command.php
-‘‘‘
+```
