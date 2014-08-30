@@ -1,5 +1,7 @@
 # CronMail to Gelf
 
+Get cron mail from imap and send them with gelf 
+
 ## Prerequisite
 
 The mail from cron need to be in a "Cron" mailbox.
